@@ -28,7 +28,7 @@ public class SortingOfArray {
 		}
 		
 		//descending
-		
+		System.out.println();
 		System.out.println("Descending");
 		
 				for(int i=0;i<size;i++) {
